@@ -1,6 +1,5 @@
-baseURL = 'https://amirbolous.com/'
 languageCode = 'en-us'
-title = "Personae Labs"
+title = "Ashpect's Blog"
 theme = "hackerman"
 description = "Tools for character creation"
 [menu]
